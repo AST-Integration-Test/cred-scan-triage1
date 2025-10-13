@@ -1,0 +1,5 @@
+This file is expected to NOT be included into the PR file change.
+
+
+# The following is an problem which can be found only by spectral, and but not in triage false positive
+   "postgres_password": "keycloak",
